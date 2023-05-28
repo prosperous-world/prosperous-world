@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, Welcom to my Github profile</h1>
 <img style="width: 100%" src="https://capsule-render.vercel.app/api?text=Full%20Stack%20Developer&animation=fadeIn&type=waving&color=gradient&height=100"/>
+
+- 📫 How to reach me **prosperous0815@gmail.com**
+
 <h3>👀 Open to work!</h3>
 <h4 align="center">I am a passionate Full Stack Web developer who loves new challenges and cutting-edge techs. With proven knowledge of IT programming, web and strategy, I have over 8+ years of experiences in website development, project management skills, and technical support. Beautiful and attractive frontend build and powerful & fast backend logic are my major concern.</h4>
-
 
 ### My Working Style
 
@@ -17,7 +19,6 @@
 ⚡Agile Scrum workflow!<br />
 </p>
 
-- 📫 How to reach me **prosperous0815@gmail.com**
  
 <h2>🏆 Github Profile Trophies and Stats</h2>
 <!---
