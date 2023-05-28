@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**prosperous-world/prosperous-world** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>🏆 Github Profile Trophies and Stats</h2>
+<!---
+<p align="left">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&column=8&rank=SSS,SS,S,AAA,AA,A,SECRET&theme=gruvbox&no-frame=true" width="820"/>
+</p>
+--->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smartmayukh&layout=compact) --->
+
+<p float="center">
+  <img alig src="https://github-readme-streak-stats.herokuapp.com?user=Smartmayukh&theme=neon-palenight&hide_border=true"  width="410"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=Smartmayukh&show_icons=true&theme=gotham" alt="mayukhmali"width="410" />
+</p>
+
