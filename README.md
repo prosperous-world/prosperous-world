@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Welcom to my Github profile</h1>
 <img style="width: 100%" src="https://capsule-render.vercel.app/api?text=Full%20Stack%20Developer&animation=fadeIn&type=waving&color=gradient&height=100"/>
 
-- 📫 How to reach me **prosperous0815@gmail.com**
+📫 How to reach me **prosperous0815@gmail.com**
 
 <h3>👀 Open to work!</h3>
 <h4 align="center">I am a passionate Full Stack Web developer who loves new challenges and cutting-edge techs. With proven knowledge of IT programming, web and strategy, I have over 8+ years of experiences in website development, project management skills, and technical support. Beautiful and attractive frontend build and powerful & fast backend logic are my major concern.</h4>
@@ -20,23 +20,19 @@
 </p>
 
 <div align="center" style="witdh:100%"> 
-  <br/>
-  <h3 align="center"> :open_book: Back end skills</h3><br/>
+  <h3 align="center"> :open_book: Back end skills</h3>
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
   <img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white ">
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101">
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Wordpress-blue?style=for-the-badge&logo=wordpress&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82">
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white ">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white ">
 </div>
-
 <div align="center" style="witdh:100%">
-  <h3 align="center"> :open_book: Front end skills</h3><br/>
+  <h3 align="center"> :open_book: Front end skills</h3>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">    
   <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
@@ -45,10 +41,8 @@
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
   <img src="https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white">
 </div>
-
 <div align="center" style="width:100%">
-  <br/>
-  <h3 align="center"> :open_book: Database</h3><br/>
+  <h3 align="center"> :open_book: Database</h3>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white ">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -56,9 +50,7 @@
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
   <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
- </div>
-
- 
+ </div> 
 <h2>🏆 Github Profile Trophies and Stats</h2>
 <!---
 <p align="left">
