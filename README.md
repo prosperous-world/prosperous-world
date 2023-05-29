@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, Welcom to my Github profile</h1>
 <img style="width: 100%" src="https://capsule-render.vercel.app/api?text=Full%20Stack%20Developer&animation=fadeIn&type=waving&color=gradient&height=100"/>
-
 📫 How to reach me **prosperous0815@gmail.com**
-
 <h3>👀 Open to work!</h3>
-<h4 align="center">I am a passionate Full Stack Web developer who loves new challenges and cutting-edge techs. With proven knowledge of IT programming, web and strategy, I have over 8+ years of experiences in website development, project management skills, and technical support. Beautiful and attractive frontend build and powerful & fast backend logic are my major concern.</h4>
+<h4 align="center">I have 8+ years of experiences in website development, project management skills, and technical support. I am a passionate Full Stack Web developer who loves new challenges and cutting-edge techs. With proven knowledge of IT programming, web and strategy, Beautiful and attractive frontend build and powerful & fast backend logic are my major concern.</h4>
 
 ### My Working Style
-
 <p align="left">
 ⚡Full-time developer (40+ hours per week)<br />
 ⚡Working in your time zone & Good communication.<br />
@@ -18,7 +15,6 @@
 ⚡Lifetime Free Bug-Fix support after completion<br />
 ⚡Agile Scrum workflow!<br />
 </p>
-
 <div align="center" style="witdh:100%"> 
   <h3 align="center"> :open_book: Back end skills</h3>
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
