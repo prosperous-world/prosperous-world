@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Welcom to my Github profile</h1>
+<h1 align="center">Hi 👋, Welcome to my Github profile</h1>
 <img style="width: 100%" src="https://capsule-render.vercel.app/api?text=Full%20Stack%20Developer&animation=fadeIn&type=waving&color=gradient&height=100"/>
 
 <h3>👀 Open to work!</h3>
